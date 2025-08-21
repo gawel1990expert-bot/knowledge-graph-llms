@@ -83,8 +83,3 @@ The application uses LangChain's experimental graph transformers with OpenAI's G
 3. Generate a graph structure representing this information
 4. Visualize the graph using PyVis, a Python interface for the vis.js visualization library
 
-## License
-
-This project is licensed under the MIT License - a permissive open source license that allows for free use, modification, and distribution of the software.
-
-For more details, see the [MIT License](https://opensource.org/licenses/MIT) documentation.
